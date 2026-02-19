@@ -105,7 +105,7 @@ This AI-driven automation system:
 
 ## 📸 Demo Preview
 
-(Add screenshots below)
+
 
 <img src="demo-screenshots/lead-output.png" width="800">
 <img src="demo-screenshots/lead-form.png" width="800">
